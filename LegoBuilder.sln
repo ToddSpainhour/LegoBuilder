@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoBuilder", "LegoBuilder\LegoBuilder.csproj", "{E5CF0F43-8C6E-46C0-8F6B-9EB05AE1D1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CF0F43-8C6E-46C0-8F6B-9EB05AE1D1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CF0F43-8C6E-46C0-8F6B-9EB05AE1D1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CF0F43-8C6E-46C0-8F6B-9EB05AE1D1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CF0F43-8C6E-46C0-8F6B-9EB05AE1D1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D48248C-B9D5-40A2-BBB3-9EC55431135D}
+	EndGlobalSection
+EndGlobal
